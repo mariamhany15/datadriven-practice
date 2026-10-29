@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/amber_comet_9255), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users Without Sessions](./practice/sql/users-without-sessions) | SQL | Medium | 2026-10-29 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-29 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-10-29 |
 
