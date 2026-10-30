@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/amber_comet_9255), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-10-30 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-30 |
 | [Users Without Sessions](./practice/sql/users-without-sessions) | SQL | Medium | 2026-10-29 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-29 |
