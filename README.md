@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/amber_comet_9255), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-10-30 |
 | [The Spending Floor](./practice/sql/the-spending-floor) | SQL | Easy | 2026-10-30 |
 | [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-10-30 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-30 |
