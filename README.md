@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/amber_comet_9255), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-10-30 |
 | [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-10-30 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-10-30 |
 | [The Spending Floor](./practice/sql/the-spending-floor) | SQL | Easy | 2026-10-30 |
